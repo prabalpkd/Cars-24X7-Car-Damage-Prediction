@@ -5,8 +5,9 @@ This project also includes **hyperparameter tuning with Optuna** and a **Streaml
 
 ---
 
-## 📸 Demo
+## 📸 Live Demo
 
+Check out the live Streamlit app here: [Cars 24x7: Car Damage Detection](https://cars-24x7-car-damage-prediction-4brstu74jcammbugjw6wr6.streamlit.app/)
 
 ---
 
@@ -51,19 +52,6 @@ The goal of this project is to classify car images into one of the following 6 c
 ├── model_helper.py              # Helper functions for loading model & inference
 ├── model/saved_model.pth        # Trained ResNet50 weights
 ```
----
-
-## 🚀 How to Run
-1️⃣ Clone the repository
-
-git clone https://github.com/yourusername/cars24x7-damage-detection.git
-cd cars24x7-damage-detection
-
-2️⃣ Install dependencies
-pip install -r requirements.txt
-
-3️⃣ Run Streamlit app
-streamlit run app.py
 
 ---
 
