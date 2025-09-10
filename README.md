@@ -11,6 +11,13 @@ Check out the live Streamlit app here: [Cars 24x7: Car Damage Detection](https:/
 
 ---
 
+## 🖥️ Streamlit App Interface
+
+![App Screenshot](https://github.com/prabalpkd/Cars-24X7-Car-Damage-Prediction/blob/main/App_Interface.png)
+
+
+---
+
 ## 📌 Project Overview  
 
 The goal of this project is to classify car images into one of the following 6 classes:  
